@@ -25,4 +25,3 @@ class User {
 function multiply(a, b) {
     return a * b
 }
-
